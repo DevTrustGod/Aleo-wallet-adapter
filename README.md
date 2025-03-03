@@ -16,7 +16,7 @@ Git – Download Here
 Clone the repository
 
 
-### `git clone https://github.com/essienricch/Aleo-adapter-task.git`
+### `git clone https://github.com/DevTrustGod/Aleo-wallet-adapter`
 Navigate to the project directory
 
 
